@@ -1,14 +1,13 @@
 # DataHole(다양한 포멧의 파일로부터 텍스트 및 이미지를 처리하기 위한 C#용 라이브러리)
-- DataHole Community
 이 소프트웨어와 포함된 라이브러리는 다양한 문서 포멧으로부터 텍스트와 이미지를 추출하고 활용하기 위해 만들어진 무료 소프트웨어입니다.
 지속적인 개발 지원을 위해서 유료 구독을 게시글로 요청하실 수 있습니다.
 
 # 업데이트 로그
-- 2024.12.15 : 0.5버전
+> 2024.12.15 : 0.5버전
   - 현재 지원 포멧 : hwp, hwpx, hml(hwpml), doc, docx, pptx, xlsx, jpeg, jpg, png, pdf, txt, html
   - 크로스 플랫폼(Linux, Windows)에 대한 테스트 및 서비스 지원
   - 기타 버그 수정
-- 2024.04.01 : 최초 릴리즈
+> 2024.04.01 : 최초 릴리즈
   - 현재 지원 포멧 : hwp, hwpx, doc, docx, pptx, xlsx, jpeg, jpg, png, pdf, txt, html
 
 # 사용방법
